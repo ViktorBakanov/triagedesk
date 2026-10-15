@@ -20,7 +20,7 @@ services:
       context: ./api
     environment:
       DATABASE_URL: postgresql+asyncpg://app:${POSTGRES_PASSWORD}@db:5432/triagedesk
-      GIT_SHA: ${GIT_SHA:-dev}
+      GIT_SHA: ${GIT_SHA:?Set GIT_SHA to the current git commit SHA}
     ports:
       - "127.0.0.1:8000:8000"
     depends_on:
