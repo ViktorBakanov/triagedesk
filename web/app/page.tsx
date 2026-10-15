@@ -26,8 +26,12 @@ export default function Home() {
         const response = await fetch("/healthz", { cache: "no-store" });
         const data = await response.json();
 
-        if (!response.ok || data.status !== "ok" || data.db !== "ok") {
-          throw new Error(`API вернул HTTP ${response.status}`);
+        if (
+          !response.ok ||
+          data.status !== "ok" ||
+          data.db !== "ok"
+        ) {
+          throw new Error("API или база данных деградировали");
         }
 
         if (active) {

@@ -1,18 +1,15 @@
 import os
 from contextlib import asynccontextmanager
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, Response
 from sqlalchemy import text
-from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy.ext.asyncio import create_async_engine
 
 VERSION = os.getenv("GIT_SHA", "dev")
-DATABASE_URL = os.environ["DATABASE_URL"]
 
 engine = create_async_engine(
-    DATABASE_URL,
+    os.environ["DATABASE_URL"],
     pool_pre_ping=True,
-    connect_args={"timeout": 2},
 )
 
 
@@ -25,23 +22,36 @@ async def lifespan(app: FastAPI):
 app = FastAPI(title="TriageDesk API", lifespan=lifespan)
 
 
+async def _db_ok() -> tuple[bool, str]:
+    try:
+        async with engine.connect() as conn:
+            await conn.execute(text("SELECT 1"))
+        return True, "ok"
+    except Exception as exc:
+        # Не возвращаем текст ошибки: он может содержать пароль из DSN.
+        return False, type(exc).__name__
+
+
 @app.get("/healthz")
 async def healthz():
-    try:
-        async with engine.connect() as connection:
-            await connection.execute(text("SELECT 1"))
-    except (SQLAlchemyError, OSError, TimeoutError):
-        raise HTTPException(
-            status_code=503,
-            detail={
-                "status": "error",
-                "db": "error",
-                "version": VERSION,
-            },
-        )
+    ok, detail = await _db_ok()
 
     return {
-        "status": "ok",
-        "db": "ok",
+        "status": "ok" if ok else "degraded",
+        "db": detail,
         "version": VERSION,
+    }
+
+
+@app.get("/readyz")
+async def readyz(response: Response):
+    """Проверка готовности обслуживать запросы."""
+    ok, detail = await _db_ok()
+
+    if not ok:
+        response.status_code = 503
+
+    return {
+        "ready": ok,
+        "db": detail,
     }
