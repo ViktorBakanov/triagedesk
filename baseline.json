@@ -1,0 +1,225 @@
+{
+  "coverage_pct": 85.02,
+  "daily_volume": [
+    {
+      "count": 659,
+      "date": "2026-09-01"
+    },
+    {
+      "count": 576,
+      "date": "2026-09-02"
+    },
+    {
+      "count": 622,
+      "date": "2026-09-03"
+    },
+    {
+      "count": 679,
+      "date": "2026-09-04"
+    },
+    {
+      "count": 629,
+      "date": "2026-09-05"
+    },
+    {
+      "count": 644,
+      "date": "2026-09-06"
+    },
+    {
+      "count": 656,
+      "date": "2026-09-07"
+    },
+    {
+      "count": 635,
+      "date": "2026-09-08"
+    },
+    {
+      "count": 612,
+      "date": "2026-09-09"
+    },
+    {
+      "count": 656,
+      "date": "2026-09-10"
+    },
+    {
+      "count": 661,
+      "date": "2026-09-11"
+    },
+    {
+      "count": 592,
+      "date": "2026-09-12"
+    },
+    {
+      "count": 623,
+      "date": "2026-09-13"
+    },
+    {
+      "count": 676,
+      "date": "2026-09-14"
+    }
+  ],
+  "data_quality": {
+    "duplicates_removed": {
+      "count": 900,
+      "pct_of_input": 9.15
+    },
+    "eligible_for_routing_metrics": {
+      "count": 8366,
+      "pct_of_input": 85.02,
+      "pct_of_unique": 93.58
+    },
+    "negative_duration": {
+      "count": 534,
+      "pct_of_unique": 5.97
+    },
+    "not_yet_routed": {
+      "count": 20,
+      "pct_of_unique": 0.22
+    },
+    "rows_after_deduplication": 8940,
+    "rows_in": 9840,
+    "unparseable_received": {
+      "count": 20,
+      "pct_of_unique": 0.22
+    }
+  },
+  "definitions": {
+    "daily_volume": "Unique records with a valid received_at timestamp, including records excluded from routing-time metrics.",
+    "deduplication_key": [
+      "ticket_id",
+      "received_at"
+    ],
+    "hourly_distribution": "Records eligible for routing-time metrics, grouped by the hour of received_at; count and p50 use this same cohort.",
+    "pct_over_1h": "Percentage of eligible records with routing time strictly greater than 60 minutes."
+  },
+  "hourly_distribution": [
+    {
+      "count": 344,
+      "hour": 0,
+      "p50_minutes": 30.0
+    },
+    {
+      "count": 357,
+      "hour": 1,
+      "p50_minutes": 30.0
+    },
+    {
+      "count": 340,
+      "hour": 2,
+      "p50_minutes": 28.0
+    },
+    {
+      "count": 382,
+      "hour": 3,
+      "p50_minutes": 31.0
+    },
+    {
+      "count": 351,
+      "hour": 4,
+      "p50_minutes": 29.0
+    },
+    {
+      "count": 345,
+      "hour": 5,
+      "p50_minutes": 29.0
+    },
+    {
+      "count": 354,
+      "hour": 6,
+      "p50_minutes": 30.0
+    },
+    {
+      "count": 342,
+      "hour": 7,
+      "p50_minutes": 30.0
+    },
+    {
+      "count": 359,
+      "hour": 8,
+      "p50_minutes": 30.0
+    },
+    {
+      "count": 321,
+      "hour": 9,
+      "p50_minutes": 33.0
+    },
+    {
+      "count": 367,
+      "hour": 10,
+      "p50_minutes": 27.0
+    },
+    {
+      "count": 347,
+      "hour": 11,
+      "p50_minutes": 31.0
+    },
+    {
+      "count": 365,
+      "hour": 12,
+      "p50_minutes": 29.0
+    },
+    {
+      "count": 370,
+      "hour": 13,
+      "p50_minutes": 33.0
+    },
+    {
+      "count": 350,
+      "hour": 14,
+      "p50_minutes": 29.0
+    },
+    {
+      "count": 331,
+      "hour": 15,
+      "p50_minutes": 31.0
+    },
+    {
+      "count": 341,
+      "hour": 16,
+      "p50_minutes": 30.0
+    },
+    {
+      "count": 350,
+      "hour": 17,
+      "p50_minutes": 33.0
+    },
+    {
+      "count": 314,
+      "hour": 18,
+      "p50_minutes": 30.0
+    },
+    {
+      "count": 355,
+      "hour": 19,
+      "p50_minutes": 29.0
+    },
+    {
+      "count": 344,
+      "hour": 20,
+      "p50_minutes": 28.0
+    },
+    {
+      "count": 363,
+      "hour": 21,
+      "p50_minutes": 31.0
+    },
+    {
+      "count": 347,
+      "hour": 22,
+      "p50_minutes": 31.0
+    },
+    {
+      "count": 327,
+      "hour": 23,
+      "p50_minutes": 30.0
+    }
+  ],
+  "pct_over_1h": 0.0,
+  "routing_time_minutes": {
+    "mean": 30.22,
+    "p50": 30.0,
+    "p90": 54.5
+  },
+  "source": "tickets_export.csv",
+  "window_days": 14
+}
