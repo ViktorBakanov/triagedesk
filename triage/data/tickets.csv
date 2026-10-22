@@ -1,0 +1,801 @@
+ticket_id,subject,body,from_email
+SYN-0001,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact1@customer4.example
+SYN-0002,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact2@customer12.example
+SYN-0003,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact3@customer9.example
+SYN-0004,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact4@customer8.example
+SYN-0005,Packing guidance,Which label should I put on the outer carton?,contact5@external5.example
+SYN-0006,Packing guidance,Which label should I put on the outer carton?,contact6@external6.example
+SYN-0007,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact7@customer12.example
+SYN-0008,Change pickup contact,Please change the collection contact for tomorrow.,contact8@customer12.example
+SYN-0009,Damaged shipment,The package arrived broken and the contents were damaged.,contact9@customer9.example
+SYN-0010,Customs clearance question,Customs has requested the HS code and duty information. This is urgent; please escalate immediately.,contact10@customer5.example
+SYN-0011,Damaged shipment,The package arrived broken and the contents were damaged.,contact11@customer13.example
+SYN-0012,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact12@external12.example
+SYN-0013,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact13@customer9.example
+SYN-0014,Damaged shipment,The package arrived broken and the contents were damaged.,contact14@customer19.example
+SYN-0015,Damaged shipment,The package arrived broken and the contents were damaged.,contact15@customer17.example
+SYN-0016,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact16@customer6.example
+SYN-0017,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact17@customer20.example
+SYN-0018,Packing guidance,Which label should I put on the outer carton?,contact18@customer11.example
+SYN-0019,Customs clearance question,Customs has requested the HS code and duty information.,contact19@customer17.example
+SYN-0020,Portal access,I cannot update the notification preferences in the customer portal.,contact20@external20.example
+SYN-0021,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact21@customer3.example
+SYN-0022,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact22@external22.example
+SYN-0023,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact23@customer11.example
+SYN-0024,Change pickup contact,Please change the collection contact for tomorrow.,contact24@customer17.example
+SYN-0025,Damaged shipment,The package arrived broken and the contents were damaged.,contact25@customer6.example
+SYN-0026,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact26@customer12.example
+SYN-0027,Customs clearance question,Customs has requested the HS code and duty information.,contact27@external27.example
+SYN-0028,Customs clearance question,Customs has requested the HS code and duty information.,contact28@customer5.example
+SYN-0029,Packing guidance,Which label should I put on the outer carton?,contact29@customer11.example
+SYN-0030,Portal access,I cannot update the notification preferences in the customer portal.,contact30@external30.example
+SYN-0031,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact31@customer12.example
+SYN-0032,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact32@customer12.example
+SYN-0033,Damaged shipment,The package arrived broken and the contents were damaged.,contact33@customer17.example
+SYN-0034,Portal access,I cannot update the notification preferences in the customer portal.,contact34@customer17.example
+SYN-0035,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact35@external35.example
+SYN-0036,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact36@customer3.example
+SYN-0037,Customs clearance question,Customs has requested the HS code and duty information.,contact37@customer6.example
+SYN-0038,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact38@customer14.example
+SYN-0039,Damaged shipment,The package arrived broken and the contents were damaged.,contact39@customer20.example
+SYN-0040,Damaged shipment,The package arrived broken and the contents were damaged.,contact40@customer10.example
+SYN-0041,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact41@customer6.example
+SYN-0042,Change pickup contact,Please change the collection contact for tomorrow.,contact42@customer4.example
+SYN-0043,Change pickup contact,Please change the collection contact for tomorrow.,contact43@external43.example
+SYN-0044,Customs clearance question,Customs has requested the HS code and duty information.,contact44@customer20.example
+SYN-0045,Damaged shipment,The package arrived broken and the contents were damaged. This is urgent; please escalate immediately.,contact45@customer14.example
+SYN-0046,Customs clearance question,Customs has requested the HS code and duty information.,contact46@customer3.example
+SYN-0047,Damaged shipment,The package arrived broken and the contents were damaged.,contact47@customer8.example
+SYN-0048,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact48@customer4.example
+SYN-0049,Customs clearance question,Customs has requested the HS code and duty information.,contact49@external49.example
+SYN-0050,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact50@customer9.example
+SYN-0051,Customs clearance question,Customs has requested the HS code and duty information.,contact51@customer17.example
+SYN-0052,Damaged shipment,The package arrived broken and the contents were damaged.,contact52@customer11.example
+SYN-0053,Damaged shipment,The package arrived broken and the contents were damaged.,contact53@customer7.example
+SYN-0054,Damaged shipment,The package arrived broken and the contents were damaged.,contact54@customer4.example
+SYN-0055,Customs clearance question,Customs has requested the HS code and duty information.,contact55@customer6.example
+SYN-0056,Customs clearance question,Customs has requested the HS code and duty information.,contact56@customer6.example
+SYN-0057,Damaged shipment,The package arrived broken and the contents were damaged.,contact57@customer20.example
+SYN-0058,Damaged shipment,The package arrived broken and the contents were damaged.,contact58@customer18.example
+SYN-0059,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact59@customer4.example
+SYN-0060,Packing guidance,Which label should I put on the outer carton?,contact60@customer5.example
+SYN-0061,Packing guidance,Which label should I put on the outer carton?,contact61@customer15.example
+SYN-0062,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact62@customer10.example
+SYN-0063,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact63@customer14.example
+SYN-0064,Change pickup contact,Please change the collection contact for tomorrow.,contact64@external64.example
+SYN-0065,Customs clearance question,Customs has requested the HS code and duty information.,contact65@customer17.example
+SYN-0066,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact66@customer7.example
+SYN-0067,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact67@customer2.example
+SYN-0068,Customs clearance question,Customs has requested the HS code and duty information.,contact68@customer12.example
+SYN-0069,Packing guidance,Which label should I put on the outer carton?,contact69@external69.example
+SYN-0070,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact70@customer14.example
+SYN-0071,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact71@external71.example
+SYN-0072,Change pickup contact,Please change the collection contact for tomorrow.,contact72@customer3.example
+SYN-0073,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact73@customer10.example
+SYN-0074,Change pickup contact,Please change the collection contact for tomorrow.,contact74@customer6.example
+SYN-0075,Customs clearance question,Customs has requested the HS code and duty information.,contact75@customer14.example
+SYN-0076,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact76@external76.example
+SYN-0077,Customs clearance question,Customs has requested the HS code and duty information.,contact77@customer5.example
+SYN-0078,Portal access,I cannot update the notification preferences in the customer portal.,contact78@customer15.example
+SYN-0079,Packing guidance,Which label should I put on the outer carton?,contact79@customer1.example
+SYN-0080,Damaged shipment,The package arrived broken and the contents were damaged. This is urgent; please escalate immediately.,contact80@customer9.example
+SYN-0081,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact81@customer10.example
+SYN-0082,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact82@customer12.example
+SYN-0083,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact83@customer1.example
+SYN-0084,Customs clearance question,Customs has requested the HS code and duty information.,contact84@customer11.example
+SYN-0085,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact85@customer4.example
+SYN-0086,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact86@customer1.example
+SYN-0087,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact87@customer10.example
+SYN-0088,Portal access,I cannot update the notification preferences in the customer portal.,contact88@customer1.example
+SYN-0089,Customs clearance question,Customs has requested the HS code and duty information.,contact89@customer7.example
+SYN-0090,Customs clearance question,Customs has requested the HS code and duty information.,contact90@customer6.example
+SYN-0091,Damaged shipment,The package arrived broken and the contents were damaged.,contact91@customer9.example
+SYN-0092,Customs clearance question,Customs has requested the HS code and duty information.,contact92@customer18.example
+SYN-0093,Packing guidance,Which label should I put on the outer carton?,contact93@customer19.example
+SYN-0094,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact94@customer4.example
+SYN-0095,Customs clearance question,Customs has requested the HS code and duty information.,contact95@customer10.example
+SYN-0096,Damaged shipment,The package arrived broken and the contents were damaged.,contact96@customer20.example
+SYN-0097,Change pickup contact,Please change the collection contact for tomorrow.,contact97@customer11.example
+SYN-0098,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact98@customer17.example
+SYN-0099,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact99@customer16.example
+SYN-0100,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact100@customer19.example
+SYN-0101,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact101@customer8.example
+SYN-0102,Customs clearance question,Customs has requested the HS code and duty information.,contact102@external102.example
+SYN-0103,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact103@customer10.example
+SYN-0104,Damaged shipment,The package arrived broken and the contents were damaged.,contact104@customer17.example
+SYN-0105,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact105@customer20.example
+SYN-0106,Portal access,I cannot update the notification preferences in the customer portal.,contact106@customer14.example
+SYN-0107,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact107@customer6.example
+SYN-0108,Customs clearance question,Customs has requested the HS code and duty information.,contact108@customer18.example
+SYN-0109,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact109@customer10.example
+SYN-0110,Portal access,I cannot update the notification preferences in the customer portal.,contact110@customer16.example
+SYN-0111,Packing guidance,Which label should I put on the outer carton?,contact111@customer20.example
+SYN-0112,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact112@external112.example
+SYN-0113,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact113@external113.example
+SYN-0114,Customs clearance question,Customs has requested the HS code and duty information.,contact114@external114.example
+SYN-0115,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact115@external115.example
+SYN-0116,Portal access,I cannot update the notification preferences in the customer portal.,contact116@external116.example
+SYN-0117,Damaged shipment,The package arrived broken and the contents were damaged. This is urgent; please escalate immediately.,contact117@customer17.example
+SYN-0118,Portal access,I cannot update the notification preferences in the customer portal.,contact118@customer17.example
+SYN-0119,Change pickup contact,Please change the collection contact for tomorrow.,contact119@customer13.example
+SYN-0120,Portal access,I cannot update the notification preferences in the customer portal.,contact120@customer15.example
+SYN-0121,Packing guidance,Which label should I put on the outer carton?,contact121@customer7.example
+SYN-0122,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact122@external122.example
+SYN-0123,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact123@customer17.example
+SYN-0124,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact124@customer16.example
+SYN-0125,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact125@customer1.example
+SYN-0126,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact126@customer4.example
+SYN-0127,Damaged shipment,The package arrived broken and the contents were damaged.,contact127@customer10.example
+SYN-0128,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact128@customer16.example
+SYN-0129,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact129@customer13.example
+SYN-0130,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact130@customer6.example
+SYN-0131,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact131@customer1.example
+SYN-0132,Packing guidance,Which label should I put on the outer carton?,contact132@customer12.example
+SYN-0133,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact133@external133.example
+SYN-0134,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact134@customer7.example
+SYN-0135,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact135@customer11.example
+SYN-0136,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact136@external136.example
+SYN-0137,Packing guidance,Which label should I put on the outer carton?,contact137@customer19.example
+SYN-0138,Customs clearance question,Customs has requested the HS code and duty information. This is urgent; please escalate immediately.,contact138@customer15.example
+SYN-0139,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact139@customer14.example
+SYN-0140,Damaged shipment,The package arrived broken and the contents were damaged.,contact140@customer17.example
+SYN-0141,Portal access,I cannot update the notification preferences in the customer portal.,contact141@customer5.example
+SYN-0142,Customs clearance question,Customs has requested the HS code and duty information.,contact142@customer13.example
+SYN-0143,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact143@external143.example
+SYN-0144,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact144@customer20.example
+SYN-0145,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact145@customer16.example
+SYN-0146,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact146@customer13.example
+SYN-0147,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact147@customer15.example
+SYN-0148,Change pickup contact,Please change the collection contact for tomorrow.,contact148@customer13.example
+SYN-0149,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact149@customer11.example
+SYN-0150,Customs clearance question,Customs has requested the HS code and duty information.,contact150@customer11.example
+SYN-0151,Packing guidance,Which label should I put on the outer carton?,contact151@customer14.example
+SYN-0152,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact152@customer7.example
+SYN-0153,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact153@customer8.example
+SYN-0154,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact154@customer7.example
+SYN-0155,Change pickup contact,Please change the collection contact for tomorrow.,contact155@customer11.example
+SYN-0156,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact156@external156.example
+SYN-0157,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact157@customer16.example
+SYN-0158,Customs clearance question,Customs has requested the HS code and duty information. This is urgent; please escalate immediately.,contact158@customer5.example
+SYN-0159,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact159@external159.example
+SYN-0160,Customs clearance question,Customs has requested the HS code and duty information.,contact160@external160.example
+SYN-0161,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact161@external161.example
+SYN-0162,Damaged shipment,The package arrived broken and the contents were damaged.,contact162@customer20.example
+SYN-0163,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact163@external163.example
+SYN-0164,Damaged shipment,The package arrived broken and the contents were damaged.,contact164@customer20.example
+SYN-0165,Customs clearance question,Customs has requested the HS code and duty information.,contact165@customer19.example
+SYN-0166,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact166@customer7.example
+SYN-0167,Customs clearance question,Customs has requested the HS code and duty information.,contact167@customer18.example
+SYN-0168,Damaged shipment,The package arrived broken and the contents were damaged.,contact168@customer16.example
+SYN-0169,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact169@customer20.example
+SYN-0170,Packing guidance,Which label should I put on the outer carton?,contact170@customer11.example
+SYN-0171,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact171@customer8.example
+SYN-0172,Change pickup contact,Please change the collection contact for tomorrow.,contact172@customer4.example
+SYN-0173,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact173@customer6.example
+SYN-0174,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact174@customer16.example
+SYN-0175,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact175@customer2.example
+SYN-0176,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact176@customer8.example
+SYN-0177,Packing guidance,Which label should I put on the outer carton?,contact177@customer2.example
+SYN-0178,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact178@customer17.example
+SYN-0179,Portal access,I cannot update the notification preferences in the customer portal.,contact179@external179.example
+SYN-0180,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact180@customer15.example
+SYN-0181,Customs clearance question,Customs has requested the HS code and duty information.,contact181@external181.example
+SYN-0182,Packing guidance,Which label should I put on the outer carton?,contact182@customer11.example
+SYN-0183,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact183@customer12.example
+SYN-0184,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact184@customer14.example
+SYN-0185,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact185@customer10.example
+SYN-0186,Damaged shipment,The package arrived broken and the contents were damaged.,contact186@customer7.example
+SYN-0187,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact187@customer15.example
+SYN-0188,Customs clearance question,Customs has requested the HS code and duty information.,contact188@customer13.example
+SYN-0189,Portal access,I cannot update the notification preferences in the customer portal.,contact189@customer6.example
+SYN-0190,Packing guidance,Which label should I put on the outer carton?,contact190@customer11.example
+SYN-0191,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact191@customer16.example
+SYN-0192,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact192@external192.example
+SYN-0193,Damaged shipment,The package arrived broken and the contents were damaged.,contact193@external193.example
+SYN-0194,Customs clearance question,Customs has requested the HS code and duty information.,contact194@customer14.example
+SYN-0195,Damaged shipment,The package arrived broken and the contents were damaged.,contact195@customer12.example
+SYN-0196,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact196@customer5.example
+SYN-0197,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact197@customer10.example
+SYN-0198,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact198@customer2.example
+SYN-0199,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact199@external199.example
+SYN-0200,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact200@customer1.example
+SYN-0201,Damaged shipment,The package arrived broken and the contents were damaged.,contact201@customer2.example
+SYN-0202,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact202@external202.example
+SYN-0203,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact203@customer7.example
+SYN-0204,Damaged shipment,The package arrived broken and the contents were damaged.,contact204@customer13.example
+SYN-0205,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact205@customer4.example
+SYN-0206,Damaged shipment,The package arrived broken and the contents were damaged.,contact206@customer10.example
+SYN-0207,Customs clearance question,Customs has requested the HS code and duty information.,contact207@external207.example
+SYN-0208,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact208@customer17.example
+SYN-0209,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact209@customer5.example
+SYN-0210,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact210@customer13.example
+SYN-0211,Change pickup contact,Please change the collection contact for tomorrow.,contact211@customer13.example
+SYN-0212,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact212@external212.example
+SYN-0213,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact213@customer14.example
+SYN-0214,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact214@customer13.example
+SYN-0215,Damaged shipment,The package arrived broken and the contents were damaged.,contact215@customer17.example
+SYN-0216,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact216@customer14.example
+SYN-0217,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact217@customer4.example
+SYN-0218,Portal access,I cannot update the notification preferences in the customer portal.,contact218@customer16.example
+SYN-0219,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact219@customer17.example
+SYN-0220,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact220@customer7.example
+SYN-0221,Customs clearance question,Customs has requested the HS code and duty information. This is urgent; please escalate immediately.,contact221@external221.example
+SYN-0222,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact222@customer15.example
+SYN-0223,Damaged shipment,The package arrived broken and the contents were damaged.,contact223@customer6.example
+SYN-0224,Damaged shipment,The package arrived broken and the contents were damaged.,contact224@customer8.example
+SYN-0225,Damaged shipment,The package arrived broken and the contents were damaged.,contact225@external225.example
+SYN-0226,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact226@customer20.example
+SYN-0227,Change pickup contact,Please change the collection contact for tomorrow.,contact227@external227.example
+SYN-0228,Packing guidance,Which label should I put on the outer carton?,contact228@customer13.example
+SYN-0229,Damaged shipment,The package arrived broken and the contents were damaged. This is urgent; please escalate immediately.,contact229@customer11.example
+SYN-0230,Packing guidance,Which label should I put on the outer carton?,contact230@customer2.example
+SYN-0231,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact231@customer12.example
+SYN-0232,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact232@customer11.example
+SYN-0233,Portal access,I cannot update the notification preferences in the customer portal.,contact233@external233.example
+SYN-0234,Damaged shipment,The package arrived broken and the contents were damaged.,contact234@customer2.example
+SYN-0235,Customs clearance question,Customs has requested the HS code and duty information.,contact235@customer13.example
+SYN-0236,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact236@customer18.example
+SYN-0237,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact237@customer3.example
+SYN-0238,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact238@external238.example
+SYN-0239,Portal access,I cannot update the notification preferences in the customer portal.,contact239@customer8.example
+SYN-0240,Packing guidance,Which label should I put on the outer carton?,contact240@customer17.example
+SYN-0241,Change pickup contact,Please change the collection contact for tomorrow.,contact241@customer4.example
+SYN-0242,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact242@external242.example
+SYN-0243,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact243@customer4.example
+SYN-0244,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact244@customer2.example
+SYN-0245,Customs clearance question,Customs has requested the HS code and duty information.,contact245@customer1.example
+SYN-0246,Packing guidance,Which label should I put on the outer carton?,contact246@customer14.example
+SYN-0247,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact247@customer2.example
+SYN-0248,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact248@customer14.example
+SYN-0249,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact249@external249.example
+SYN-0250,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact250@customer1.example
+SYN-0251,Change pickup contact,Please change the collection contact for tomorrow.,contact251@customer5.example
+SYN-0252,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact252@customer16.example
+SYN-0253,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact253@customer1.example
+SYN-0254,Change pickup contact,Please change the collection contact for tomorrow.,contact254@customer16.example
+SYN-0255,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact255@customer7.example
+SYN-0256,Damaged shipment,The package arrived broken and the contents were damaged.,contact256@customer10.example
+SYN-0257,Damaged shipment,The package arrived broken and the contents were damaged.,contact257@customer4.example
+SYN-0258,Damaged shipment,The package arrived broken and the contents were damaged.,contact258@customer9.example
+SYN-0259,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact259@customer15.example
+SYN-0260,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact260@customer15.example
+SYN-0261,Damaged shipment,The package arrived broken and the contents were damaged.,contact261@customer4.example
+SYN-0262,Customs clearance question,Customs has requested the HS code and duty information.,contact262@external262.example
+SYN-0263,Change pickup contact,Please change the collection contact for tomorrow.,contact263@customer9.example
+SYN-0264,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact264@external264.example
+SYN-0265,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact265@customer1.example
+SYN-0266,Damaged shipment,The package arrived broken and the contents were damaged. This is urgent; please escalate immediately.,contact266@customer1.example
+SYN-0267,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact267@customer19.example
+SYN-0268,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact268@customer4.example
+SYN-0269,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact269@external269.example
+SYN-0270,Customs clearance question,Customs has requested the HS code and duty information.,contact270@customer20.example
+SYN-0271,Change pickup contact,Please change the collection contact for tomorrow.,contact271@customer20.example
+SYN-0272,Damaged shipment,The package arrived broken and the contents were damaged.,contact272@customer16.example
+SYN-0273,Damaged shipment,The package arrived broken and the contents were damaged.,contact273@customer20.example
+SYN-0274,Packing guidance,Which label should I put on the outer carton?,contact274@customer12.example
+SYN-0275,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact275@customer2.example
+SYN-0276,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact276@customer16.example
+SYN-0277,Customs clearance question,Customs has requested the HS code and duty information.,contact277@customer18.example
+SYN-0278,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact278@customer14.example
+SYN-0279,Damaged shipment,The package arrived broken and the contents were damaged.,contact279@customer15.example
+SYN-0280,Portal access,I cannot update the notification preferences in the customer portal.,contact280@customer9.example
+SYN-0281,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact281@customer20.example
+SYN-0282,Packing guidance,Which label should I put on the outer carton?,contact282@customer12.example
+SYN-0283,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact283@external283.example
+SYN-0284,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact284@customer15.example
+SYN-0285,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact285@external285.example
+SYN-0286,Customs clearance question,Customs has requested the HS code and duty information.,contact286@customer12.example
+SYN-0287,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact287@customer8.example
+SYN-0288,Change pickup contact,Please change the collection contact for tomorrow.,contact288@customer5.example
+SYN-0289,Customs clearance question,Customs has requested the HS code and duty information.,contact289@customer8.example
+SYN-0290,Damaged shipment,The package arrived broken and the contents were damaged. This is urgent; please escalate immediately.,contact290@customer19.example
+SYN-0291,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact291@customer20.example
+SYN-0292,Damaged shipment,The package arrived broken and the contents were damaged.,contact292@customer2.example
+SYN-0293,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact293@customer12.example
+SYN-0294,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact294@external294.example
+SYN-0295,Damaged shipment,The package arrived broken and the contents were damaged.,contact295@customer1.example
+SYN-0296,Damaged shipment,The package arrived broken and the contents were damaged.,contact296@customer16.example
+SYN-0297,Customs clearance question,Customs has requested the HS code and duty information.,contact297@customer6.example
+SYN-0298,Portal access,I cannot update the notification preferences in the customer portal.,contact298@customer18.example
+SYN-0299,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact299@external299.example
+SYN-0300,Damaged shipment,The package arrived broken and the contents were damaged.,contact300@customer14.example
+SYN-0301,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact301@external301.example
+SYN-0302,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact302@customer14.example
+SYN-0303,Damaged shipment,The package arrived broken and the contents were damaged.,contact303@external303.example
+SYN-0304,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact304@customer8.example
+SYN-0305,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact305@customer19.example
+SYN-0306,Customs clearance question,Customs has requested the HS code and duty information.,contact306@external306.example
+SYN-0307,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact307@customer1.example
+SYN-0308,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact308@customer15.example
+SYN-0309,Damaged shipment,The package arrived broken and the contents were damaged. This is urgent; please escalate immediately.,contact309@customer3.example
+SYN-0310,Packing guidance,Which label should I put on the outer carton?,contact310@external310.example
+SYN-0311,Customs clearance question,Customs has requested the HS code and duty information.,contact311@customer10.example
+SYN-0312,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact312@customer5.example
+SYN-0313,Customs clearance question,Customs has requested the HS code and duty information.,contact313@customer18.example
+SYN-0314,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact314@external314.example
+SYN-0315,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact315@external315.example
+SYN-0316,Customs clearance question,Customs has requested the HS code and duty information.,contact316@external316.example
+SYN-0317,Portal access,I cannot update the notification preferences in the customer portal.,contact317@external317.example
+SYN-0318,Damaged shipment,The package arrived broken and the contents were damaged.,contact318@customer8.example
+SYN-0319,Damaged shipment,The package arrived broken and the contents were damaged.,contact319@external319.example
+SYN-0320,Damaged shipment,The package arrived broken and the contents were damaged.,contact320@customer11.example
+SYN-0321,Portal access,I cannot update the notification preferences in the customer portal.,contact321@customer4.example
+SYN-0322,Change pickup contact,Please change the collection contact for tomorrow.,contact322@customer17.example
+SYN-0323,Customs clearance question,Customs has requested the HS code and duty information.,contact323@external323.example
+SYN-0324,Damaged shipment,The package arrived broken and the contents were damaged. This is urgent; please escalate immediately.,contact324@customer19.example
+SYN-0325,Damaged shipment,The package arrived broken and the contents were damaged.,contact325@external325.example
+SYN-0326,Packing guidance,Which label should I put on the outer carton?,contact326@customer3.example
+SYN-0327,Customs clearance question,Customs has requested the HS code and duty information.,contact327@external327.example
+SYN-0328,Portal access,I cannot update the notification preferences in the customer portal.,contact328@customer17.example
+SYN-0329,Customs clearance question,Customs has requested the HS code and duty information. This is urgent; please escalate immediately.,contact329@external329.example
+SYN-0330,Change pickup contact,Please change the collection contact for tomorrow.,contact330@customer19.example
+SYN-0331,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact331@customer10.example
+SYN-0332,Customs clearance question,Customs has requested the HS code and duty information.,contact332@customer1.example
+SYN-0333,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact333@customer4.example
+SYN-0334,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact334@customer9.example
+SYN-0335,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact335@external335.example
+SYN-0336,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact336@customer12.example
+SYN-0337,Packing guidance,Which label should I put on the outer carton?,contact337@external337.example
+SYN-0338,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact338@customer3.example
+SYN-0339,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact339@customer14.example
+SYN-0340,Customs clearance question,Customs has requested the HS code and duty information.,contact340@external340.example
+SYN-0341,Change pickup contact,Please change the collection contact for tomorrow.,contact341@customer4.example
+SYN-0342,Damaged shipment,The package arrived broken and the contents were damaged.,contact342@external342.example
+SYN-0343,Customs clearance question,Customs has requested the HS code and duty information.,contact343@customer18.example
+SYN-0344,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact344@customer9.example
+SYN-0345,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact345@customer19.example
+SYN-0346,Portal access,I cannot update the notification preferences in the customer portal.,contact346@customer1.example
+SYN-0347,Change pickup contact,Please change the collection contact for tomorrow.,contact347@customer15.example
+SYN-0348,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact348@customer16.example
+SYN-0349,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact349@external349.example
+SYN-0350,Damaged shipment,The package arrived broken and the contents were damaged.,contact350@customer17.example
+SYN-0351,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact351@customer2.example
+SYN-0352,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact352@customer9.example
+SYN-0353,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact353@customer14.example
+SYN-0354,Damaged shipment,The package arrived broken and the contents were damaged. This is urgent; please escalate immediately.,contact354@external354.example
+SYN-0355,Customs clearance question,Customs has requested the HS code and duty information.,contact355@external355.example
+SYN-0356,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact356@customer2.example
+SYN-0357,Customs clearance question,Customs has requested the HS code and duty information.,contact357@customer11.example
+SYN-0358,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact358@customer19.example
+SYN-0359,Change pickup contact,Please change the collection contact for tomorrow.,contact359@customer18.example
+SYN-0360,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact360@customer4.example
+SYN-0361,Portal access,I cannot update the notification preferences in the customer portal.,contact361@external361.example
+SYN-0362,Packing guidance,Which label should I put on the outer carton?,contact362@customer3.example
+SYN-0363,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact363@customer20.example
+SYN-0364,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact364@customer10.example
+SYN-0365,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact365@customer20.example
+SYN-0366,Packing guidance,Which label should I put on the outer carton?,contact366@external366.example
+SYN-0367,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact367@customer1.example
+SYN-0368,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact368@customer14.example
+SYN-0369,Packing guidance,Which label should I put on the outer carton?,contact369@external369.example
+SYN-0370,Change pickup contact,Please change the collection contact for tomorrow.,contact370@customer12.example
+SYN-0371,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact371@customer10.example
+SYN-0372,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact372@customer9.example
+SYN-0373,Customs clearance question,Customs has requested the HS code and duty information. This is urgent; please escalate immediately.,contact373@external373.example
+SYN-0374,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact374@customer12.example
+SYN-0375,Customs clearance question,Customs has requested the HS code and duty information.,contact375@customer11.example
+SYN-0376,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact376@customer18.example
+SYN-0377,Packing guidance,Which label should I put on the outer carton?,contact377@customer1.example
+SYN-0378,Customs clearance question,Customs has requested the HS code and duty information. This is urgent; please escalate immediately.,contact378@customer14.example
+SYN-0379,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact379@customer1.example
+SYN-0380,Damaged shipment,The package arrived broken and the contents were damaged.,contact380@customer4.example
+SYN-0381,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact381@customer12.example
+SYN-0382,Portal access,I cannot update the notification preferences in the customer portal.,contact382@customer10.example
+SYN-0383,Customs clearance question,Customs has requested the HS code and duty information.,contact383@customer2.example
+SYN-0384,Damaged shipment,The package arrived broken and the contents were damaged.,contact384@customer9.example
+SYN-0385,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact385@external385.example
+SYN-0386,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact386@customer8.example
+SYN-0387,Customs clearance question,Customs has requested the HS code and duty information.,contact387@external387.example
+SYN-0388,Portal access,I cannot update the notification preferences in the customer portal.,contact388@external388.example
+SYN-0389,Customs clearance question,Customs has requested the HS code and duty information.,contact389@customer9.example
+SYN-0390,Change pickup contact,Please change the collection contact for tomorrow.,contact390@customer13.example
+SYN-0391,Damaged shipment,The package arrived broken and the contents were damaged.,contact391@customer8.example
+SYN-0392,Customs clearance question,Customs has requested the HS code and duty information.,contact392@customer7.example
+SYN-0393,Packing guidance,Which label should I put on the outer carton?,contact393@customer20.example
+SYN-0394,Portal access,I cannot update the notification preferences in the customer portal.,contact394@customer9.example
+SYN-0395,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact395@external395.example
+SYN-0396,Packing guidance,Which label should I put on the outer carton?,contact396@customer13.example
+SYN-0397,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact397@customer12.example
+SYN-0398,Customs clearance question,Customs has requested the HS code and duty information. This is urgent; please escalate immediately.,contact398@external398.example
+SYN-0399,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact399@customer3.example
+SYN-0400,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact400@customer4.example
+SYN-0401,Damaged shipment,The package arrived broken and the contents were damaged.,contact401@customer16.example
+SYN-0402,Damaged shipment,The package arrived broken and the contents were damaged.,contact402@customer7.example
+SYN-0403,Packing guidance,Which label should I put on the outer carton?,contact403@customer17.example
+SYN-0404,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact404@customer6.example
+SYN-0405,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact405@customer9.example
+SYN-0406,Damaged shipment,The package arrived broken and the contents were damaged.,contact406@customer20.example
+SYN-0407,Customs clearance question,Customs has requested the HS code and duty information.,contact407@customer10.example
+SYN-0408,Customs clearance question,Customs has requested the HS code and duty information.,contact408@customer14.example
+SYN-0409,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact409@customer1.example
+SYN-0410,Portal access,I cannot update the notification preferences in the customer portal.,contact410@customer12.example
+SYN-0411,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact411@customer4.example
+SYN-0412,Customs clearance question,Customs has requested the HS code and duty information.,contact412@external412.example
+SYN-0413,Packing guidance,Which label should I put on the outer carton?,contact413@customer14.example
+SYN-0414,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact414@external414.example
+SYN-0415,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact415@customer5.example
+SYN-0416,Damaged shipment,The package arrived broken and the contents were damaged.,contact416@customer14.example
+SYN-0417,Portal access,I cannot update the notification preferences in the customer portal.,contact417@customer7.example
+SYN-0418,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact418@customer8.example
+SYN-0419,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact419@customer17.example
+SYN-0420,Customs clearance question,Customs has requested the HS code and duty information. This is urgent; please escalate immediately.,contact420@customer6.example
+SYN-0421,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact421@customer18.example
+SYN-0422,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact422@external422.example
+SYN-0423,Change pickup contact,Please change the collection contact for tomorrow.,contact423@customer15.example
+SYN-0424,Damaged shipment,The package arrived broken and the contents were damaged.,contact424@customer9.example
+SYN-0425,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact425@customer6.example
+SYN-0426,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact426@external426.example
+SYN-0427,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact427@customer6.example
+SYN-0428,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact428@customer2.example
+SYN-0429,Customs clearance question,Customs has requested the HS code and duty information.,contact429@customer15.example
+SYN-0430,Damaged shipment,The package arrived broken and the contents were damaged. This is urgent; please escalate immediately.,contact430@external430.example
+SYN-0431,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact431@customer7.example
+SYN-0432,Customs clearance question,Customs has requested the HS code and duty information.,contact432@customer20.example
+SYN-0433,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact433@customer8.example
+SYN-0434,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact434@customer6.example
+SYN-0435,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact435@customer10.example
+SYN-0436,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact436@customer14.example
+SYN-0437,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact437@external437.example
+SYN-0438,Damaged shipment,The package arrived broken and the contents were damaged.,contact438@customer18.example
+SYN-0439,Change pickup contact,Please change the collection contact for tomorrow.,contact439@customer19.example
+SYN-0440,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact440@customer19.example
+SYN-0441,Customs clearance question,Customs has requested the HS code and duty information.,contact441@customer10.example
+SYN-0442,Change pickup contact,Please change the collection contact for tomorrow.,contact442@customer10.example
+SYN-0443,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact443@customer20.example
+SYN-0444,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact444@customer7.example
+SYN-0445,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact445@customer19.example
+SYN-0446,Customs clearance question,Customs has requested the HS code and duty information.,contact446@customer2.example
+SYN-0447,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact447@customer14.example
+SYN-0448,Customs clearance question,Customs has requested the HS code and duty information.,contact448@customer9.example
+SYN-0449,Customs clearance question,Customs has requested the HS code and duty information.,contact449@customer7.example
+SYN-0450,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact450@external450.example
+SYN-0451,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact451@customer18.example
+SYN-0452,Damaged shipment,The package arrived broken and the contents were damaged.,contact452@customer8.example
+SYN-0453,Packing guidance,Which label should I put on the outer carton?,contact453@external453.example
+SYN-0454,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact454@customer7.example
+SYN-0455,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact455@customer8.example
+SYN-0456,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact456@customer5.example
+SYN-0457,Customs clearance question,Customs has requested the HS code and duty information.,contact457@customer19.example
+SYN-0458,Portal access,I cannot update the notification preferences in the customer portal.,contact458@customer9.example
+SYN-0459,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact459@customer11.example
+SYN-0460,Customs clearance question,Customs has requested the HS code and duty information.,contact460@external460.example
+SYN-0461,Customs clearance question,Customs has requested the HS code and duty information.,contact461@customer3.example
+SYN-0462,Damaged shipment,The package arrived broken and the contents were damaged.,contact462@customer16.example
+SYN-0463,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact463@customer15.example
+SYN-0464,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact464@customer17.example
+SYN-0465,Change pickup contact,Please change the collection contact for tomorrow.,contact465@customer18.example
+SYN-0466,Damaged shipment,The package arrived broken and the contents were damaged.,contact466@customer16.example
+SYN-0467,Customs clearance question,Customs has requested the HS code and duty information.,contact467@customer7.example
+SYN-0468,Customs clearance question,Customs has requested the HS code and duty information. This is urgent; please escalate immediately.,contact468@external468.example
+SYN-0469,Customs clearance question,Customs has requested the HS code and duty information.,contact469@external469.example
+SYN-0470,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact470@customer6.example
+SYN-0471,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact471@customer1.example
+SYN-0472,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact472@customer5.example
+SYN-0473,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact473@customer9.example
+SYN-0474,Damaged shipment,The package arrived broken and the contents were damaged.,contact474@customer2.example
+SYN-0475,Customs clearance question,Customs has requested the HS code and duty information. This is urgent; please escalate immediately.,contact475@customer1.example
+SYN-0476,Damaged shipment,The package arrived broken and the contents were damaged.,contact476@customer14.example
+SYN-0477,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact477@customer1.example
+SYN-0478,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact478@customer2.example
+SYN-0479,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact479@customer7.example
+SYN-0480,Damaged shipment,The package arrived broken and the contents were damaged.,contact480@customer17.example
+SYN-0481,Customs clearance question,Customs has requested the HS code and duty information.,contact481@customer6.example
+SYN-0482,Portal access,I cannot update the notification preferences in the customer portal.,contact482@customer12.example
+SYN-0483,Packing guidance,Which label should I put on the outer carton?,contact483@customer8.example
+SYN-0484,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact484@customer13.example
+SYN-0485,Damaged shipment,The package arrived broken and the contents were damaged.,contact485@customer6.example
+SYN-0486,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact486@external486.example
+SYN-0487,Customs clearance question,Customs has requested the HS code and duty information.,contact487@customer10.example
+SYN-0488,Customs clearance question,Customs has requested the HS code and duty information.,contact488@external488.example
+SYN-0489,Customs clearance question,Customs has requested the HS code and duty information.,contact489@customer10.example
+SYN-0490,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact490@customer8.example
+SYN-0491,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact491@customer10.example
+SYN-0492,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact492@customer5.example
+SYN-0493,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact493@external493.example
+SYN-0494,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact494@customer17.example
+SYN-0495,Packing guidance,Which label should I put on the outer carton?,contact495@customer14.example
+SYN-0496,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact496@customer16.example
+SYN-0497,Portal access,I cannot update the notification preferences in the customer portal.,contact497@customer20.example
+SYN-0498,Change pickup contact,Please change the collection contact for tomorrow.,contact498@customer14.example
+SYN-0499,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact499@customer16.example
+SYN-0500,Packing guidance,Which label should I put on the outer carton?,contact500@external500.example
+SYN-0501,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact501@customer13.example
+SYN-0502,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact502@external502.example
+SYN-0503,Damaged shipment,The package arrived broken and the contents were damaged.,contact503@customer19.example
+SYN-0504,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact504@customer20.example
+SYN-0505,Change pickup contact,Please change the collection contact for tomorrow.,contact505@external505.example
+SYN-0506,Change pickup contact,Please change the collection contact for tomorrow.,contact506@customer4.example
+SYN-0507,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact507@customer2.example
+SYN-0508,Portal access,I cannot update the notification preferences in the customer portal.,contact508@customer11.example
+SYN-0509,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact509@customer2.example
+SYN-0510,Change pickup contact,Please change the collection contact for tomorrow.,contact510@external510.example
+SYN-0511,Packing guidance,Which label should I put on the outer carton?,contact511@customer19.example
+SYN-0512,Damaged shipment,The package arrived broken and the contents were damaged.,contact512@customer13.example
+SYN-0513,Change pickup contact,Please change the collection contact for tomorrow.,contact513@customer10.example
+SYN-0514,Customs clearance question,Customs has requested the HS code and duty information.,contact514@customer5.example
+SYN-0515,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact515@customer2.example
+SYN-0516,Packing guidance,Which label should I put on the outer carton?,contact516@customer13.example
+SYN-0517,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact517@customer19.example
+SYN-0518,Portal access,I cannot update the notification preferences in the customer portal.,contact518@customer16.example
+SYN-0519,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact519@customer5.example
+SYN-0520,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact520@customer19.example
+SYN-0521,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact521@customer9.example
+SYN-0522,Damaged shipment,The package arrived broken and the contents were damaged.,contact522@customer15.example
+SYN-0523,Damaged shipment,The package arrived broken and the contents were damaged.,contact523@external523.example
+SYN-0524,Customs clearance question,Customs has requested the HS code and duty information.,contact524@customer18.example
+SYN-0525,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact525@customer20.example
+SYN-0526,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact526@external526.example
+SYN-0527,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact527@customer6.example
+SYN-0528,Packing guidance,Which label should I put on the outer carton?,contact528@external528.example
+SYN-0529,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact529@customer20.example
+SYN-0530,Customs clearance question,Customs has requested the HS code and duty information.,contact530@customer4.example
+SYN-0531,Damaged shipment,The package arrived broken and the contents were damaged. This is urgent; please escalate immediately.,contact531@external531.example
+SYN-0532,Damaged shipment,The package arrived broken and the contents were damaged.,contact532@customer3.example
+SYN-0533,Portal access,I cannot update the notification preferences in the customer portal.,contact533@customer19.example
+SYN-0534,Packing guidance,Which label should I put on the outer carton?,contact534@customer5.example
+SYN-0535,Portal access,I cannot update the notification preferences in the customer portal.,contact535@customer1.example
+SYN-0536,Damaged shipment,The package arrived broken and the contents were damaged.,contact536@customer3.example
+SYN-0537,Damaged shipment,The package arrived broken and the contents were damaged.,contact537@customer15.example
+SYN-0538,Change pickup contact,Please change the collection contact for tomorrow.,contact538@customer6.example
+SYN-0539,Packing guidance,Which label should I put on the outer carton?,contact539@external539.example
+SYN-0540,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact540@customer20.example
+SYN-0541,Portal access,I cannot update the notification preferences in the customer portal.,contact541@customer16.example
+SYN-0542,Damaged shipment,The package arrived broken and the contents were damaged.,contact542@customer13.example
+SYN-0543,Portal access,I cannot update the notification preferences in the customer portal.,contact543@customer12.example
+SYN-0544,Portal access,I cannot update the notification preferences in the customer portal.,contact544@customer18.example
+SYN-0545,Portal access,I cannot update the notification preferences in the customer portal.,contact545@customer10.example
+SYN-0546,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact546@customer13.example
+SYN-0547,Customs clearance question,Customs has requested the HS code and duty information.,contact547@customer11.example
+SYN-0548,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact548@customer8.example
+SYN-0549,Portal access,I cannot update the notification preferences in the customer portal.,contact549@customer17.example
+SYN-0550,Damaged shipment,The package arrived broken and the contents were damaged.,contact550@customer13.example
+SYN-0551,Damaged shipment,The package arrived broken and the contents were damaged.,contact551@customer6.example
+SYN-0552,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact552@customer3.example
+SYN-0553,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact553@customer18.example
+SYN-0554,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact554@customer6.example
+SYN-0555,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact555@customer12.example
+SYN-0556,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact556@customer8.example
+SYN-0557,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact557@external557.example
+SYN-0558,Damaged shipment,The package arrived broken and the contents were damaged.,contact558@external558.example
+SYN-0559,Customs clearance question,Customs has requested the HS code and duty information.,contact559@customer5.example
+SYN-0560,Packing guidance,Which label should I put on the outer carton?,contact560@customer20.example
+SYN-0561,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact561@customer20.example
+SYN-0562,Damaged shipment,The package arrived broken and the contents were damaged.,contact562@external562.example
+SYN-0563,Damaged shipment,The package arrived broken and the contents were damaged.,contact563@customer18.example
+SYN-0564,Packing guidance,Which label should I put on the outer carton?,contact564@external564.example
+SYN-0565,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact565@customer2.example
+SYN-0566,Damaged shipment,The package arrived broken and the contents were damaged.,contact566@customer16.example
+SYN-0567,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact567@external567.example
+SYN-0568,Portal access,I cannot update the notification preferences in the customer portal.,contact568@customer20.example
+SYN-0569,Packing guidance,Which label should I put on the outer carton?,contact569@customer2.example
+SYN-0570,Customs clearance question,Customs has requested the HS code and duty information. This is urgent; please escalate immediately.,contact570@customer15.example
+SYN-0571,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact571@customer12.example
+SYN-0572,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact572@customer10.example
+SYN-0573,Damaged shipment,The package arrived broken and the contents were damaged.,contact573@customer1.example
+SYN-0574,Packing guidance,Which label should I put on the outer carton?,contact574@external574.example
+SYN-0575,Damaged shipment,The package arrived broken and the contents were damaged.,contact575@customer14.example
+SYN-0576,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact576@customer9.example
+SYN-0577,Customs clearance question,Customs has requested the HS code and duty information.,contact577@customer4.example
+SYN-0578,Customs clearance question,Customs has requested the HS code and duty information.,contact578@customer19.example
+SYN-0579,Packing guidance,Which label should I put on the outer carton?,contact579@customer2.example
+SYN-0580,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact580@external580.example
+SYN-0581,Damaged shipment,The package arrived broken and the contents were damaged.,contact581@external581.example
+SYN-0582,Customs clearance question,Customs has requested the HS code and duty information.,contact582@customer5.example
+SYN-0583,Packing guidance,Which label should I put on the outer carton?,contact583@customer11.example
+SYN-0584,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact584@customer17.example
+SYN-0585,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact585@customer2.example
+SYN-0586,Change pickup contact,Please change the collection contact for tomorrow.,contact586@external586.example
+SYN-0587,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact587@customer17.example
+SYN-0588,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact588@customer10.example
+SYN-0589,Packing guidance,Which label should I put on the outer carton?,contact589@customer1.example
+SYN-0590,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact590@external590.example
+SYN-0591,Portal access,I cannot update the notification preferences in the customer portal.,contact591@external591.example
+SYN-0592,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact592@customer17.example
+SYN-0593,Packing guidance,Which label should I put on the outer carton?,contact593@external593.example
+SYN-0594,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact594@customer13.example
+SYN-0595,Customs clearance question,Customs has requested the HS code and duty information.,contact595@customer11.example
+SYN-0596,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact596@customer9.example
+SYN-0597,Packing guidance,Which label should I put on the outer carton?,contact597@external597.example
+SYN-0598,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact598@customer1.example
+SYN-0599,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact599@customer8.example
+SYN-0600,Damaged shipment,The package arrived broken and the contents were damaged.,contact600@customer1.example
+SYN-0601,Packing guidance,Which label should I put on the outer carton?,contact601@customer16.example
+SYN-0602,Customs clearance question,Customs has requested the HS code and duty information.,contact602@customer3.example
+SYN-0603,Damaged shipment,The package arrived broken and the contents were damaged.,contact603@customer2.example
+SYN-0604,Portal access,I cannot update the notification preferences in the customer portal.,contact604@customer4.example
+SYN-0605,Change pickup contact,Please change the collection contact for tomorrow.,contact605@customer9.example
+SYN-0606,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact606@external606.example
+SYN-0607,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact607@external607.example
+SYN-0608,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact608@external608.example
+SYN-0609,Damaged shipment,The package arrived broken and the contents were damaged.,contact609@customer4.example
+SYN-0610,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact610@customer14.example
+SYN-0611,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact611@customer15.example
+SYN-0612,Change pickup contact,Please change the collection contact for tomorrow.,contact612@customer9.example
+SYN-0613,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact613@external613.example
+SYN-0614,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact614@customer11.example
+SYN-0615,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact615@customer9.example
+SYN-0616,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact616@customer20.example
+SYN-0617,Change pickup contact,Please change the collection contact for tomorrow.,contact617@customer19.example
+SYN-0618,Damaged shipment,The package arrived broken and the contents were damaged.,contact618@customer15.example
+SYN-0619,Packing guidance,Which label should I put on the outer carton?,contact619@external619.example
+SYN-0620,Portal access,I cannot update the notification preferences in the customer portal.,contact620@customer15.example
+SYN-0621,Customs clearance question,Customs has requested the HS code and duty information.,contact621@external621.example
+SYN-0622,Customs clearance question,Customs has requested the HS code and duty information.,contact622@external622.example
+SYN-0623,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact623@customer19.example
+SYN-0624,Portal access,I cannot update the notification preferences in the customer portal.,contact624@customer1.example
+SYN-0625,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact625@external625.example
+SYN-0626,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact626@external626.example
+SYN-0627,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact627@customer15.example
+SYN-0628,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact628@customer3.example
+SYN-0629,Customs clearance question,Customs has requested the HS code and duty information.,contact629@external629.example
+SYN-0630,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact630@customer7.example
+SYN-0631,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact631@customer17.example
+SYN-0632,Customs clearance question,Customs has requested the HS code and duty information.,contact632@customer5.example
+SYN-0633,Customs clearance question,Customs has requested the HS code and duty information.,contact633@customer17.example
+SYN-0634,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact634@customer17.example
+SYN-0635,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact635@customer11.example
+SYN-0636,Damaged shipment,The package arrived broken and the contents were damaged.,contact636@customer6.example
+SYN-0637,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact637@customer8.example
+SYN-0638,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact638@customer2.example
+SYN-0639,Change pickup contact,Please change the collection contact for tomorrow.,contact639@customer11.example
+SYN-0640,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact640@customer4.example
+SYN-0641,Customs clearance question,Customs has requested the HS code and duty information.,contact641@customer5.example
+SYN-0642,Portal access,I cannot update the notification preferences in the customer portal.,contact642@customer4.example
+SYN-0643,Portal access,I cannot update the notification preferences in the customer portal.,contact643@customer20.example
+SYN-0644,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact644@customer6.example
+SYN-0645,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact645@customer7.example
+SYN-0646,Customs clearance question,Customs has requested the HS code and duty information.,contact646@customer12.example
+SYN-0647,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact647@customer20.example
+SYN-0648,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact648@external648.example
+SYN-0649,Portal access,I cannot update the notification preferences in the customer portal.,contact649@customer13.example
+SYN-0650,Portal access,I cannot update the notification preferences in the customer portal.,contact650@customer2.example
+SYN-0651,Change pickup contact,Please change the collection contact for tomorrow.,contact651@customer18.example
+SYN-0652,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact652@external652.example
+SYN-0653,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact653@external653.example
+SYN-0654,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact654@customer8.example
+SYN-0655,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact655@customer4.example
+SYN-0656,Portal access,I cannot update the notification preferences in the customer portal.,contact656@external656.example
+SYN-0657,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact657@customer15.example
+SYN-0658,Change pickup contact,Please change the collection contact for tomorrow.,contact658@external658.example
+SYN-0659,Damaged shipment,The package arrived broken and the contents were damaged.,contact659@customer10.example
+SYN-0660,Customs clearance question,Customs has requested the HS code and duty information.,contact660@external660.example
+SYN-0661,Portal access,I cannot update the notification preferences in the customer portal.,contact661@customer12.example
+SYN-0662,Damaged shipment,The package arrived broken and the contents were damaged.,contact662@customer15.example
+SYN-0663,Change pickup contact,Please change the collection contact for tomorrow.,contact663@external663.example
+SYN-0664,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact664@customer13.example
+SYN-0665,Portal access,I cannot update the notification preferences in the customer portal.,contact665@customer16.example
+SYN-0666,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact666@customer18.example
+SYN-0667,Packing guidance,Which label should I put on the outer carton?,contact667@customer4.example
+SYN-0668,Change pickup contact,Please change the collection contact for tomorrow.,contact668@customer1.example
+SYN-0669,Packing guidance,Which label should I put on the outer carton?,contact669@external669.example
+SYN-0670,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact670@customer8.example
+SYN-0671,Customs clearance question,Customs has requested the HS code and duty information.,contact671@customer16.example
+SYN-0672,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact672@customer7.example
+SYN-0673,Change pickup contact,Please change the collection contact for tomorrow.,contact673@customer4.example
+SYN-0674,Packing guidance,Which label should I put on the outer carton?,contact674@customer5.example
+SYN-0675,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact675@customer1.example
+SYN-0676,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact676@customer8.example
+SYN-0677,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact677@customer14.example
+SYN-0678,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact678@customer2.example
+SYN-0679,Damaged shipment,The package arrived broken and the contents were damaged.,contact679@customer10.example
+SYN-0680,Portal access,I cannot update the notification preferences in the customer portal.,contact680@external680.example
+SYN-0681,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact681@customer5.example
+SYN-0682,Customs clearance question,Customs has requested the HS code and duty information. This is urgent; please escalate immediately.,contact682@customer20.example
+SYN-0683,Damaged shipment,The package arrived broken and the contents were damaged.,contact683@customer6.example
+SYN-0684,Packing guidance,Which label should I put on the outer carton?,contact684@customer20.example
+SYN-0685,Damaged shipment,The package arrived broken and the contents were damaged.,contact685@customer10.example
+SYN-0686,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact686@external686.example
+SYN-0687,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact687@customer19.example
+SYN-0688,Damaged shipment,The package arrived broken and the contents were damaged.,contact688@customer18.example
+SYN-0689,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact689@customer5.example
+SYN-0690,Packing guidance,Which label should I put on the outer carton?,contact690@external690.example
+SYN-0691,Damaged shipment,The package arrived broken and the contents were damaged. This is urgent; please escalate immediately.,contact691@external691.example
+SYN-0692,Damaged shipment,The package arrived broken and the contents were damaged.,contact692@customer7.example
+SYN-0693,Packing guidance,Which label should I put on the outer carton?,contact693@customer9.example
+SYN-0694,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact694@customer11.example
+SYN-0695,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact695@customer18.example
+SYN-0696,Customs clearance question,Customs has requested the HS code and duty information.,contact696@customer8.example
+SYN-0697,Packing guidance,Which label should I put on the outer carton?,contact697@customer2.example
+SYN-0698,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact698@customer1.example
+SYN-0699,Customs clearance question,Customs has requested the HS code and duty information.,contact699@customer19.example
+SYN-0700,Change pickup contact,Please change the collection contact for tomorrow.,contact700@customer20.example
+SYN-0701,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact701@customer7.example
+SYN-0702,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact702@customer5.example
+SYN-0703,Portal access,I cannot update the notification preferences in the customer portal.,contact703@customer8.example
+SYN-0704,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact704@external704.example
+SYN-0705,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact705@external705.example
+SYN-0706,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact706@customer14.example
+SYN-0707,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact707@customer19.example
+SYN-0708,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact708@external708.example
+SYN-0709,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact709@customer13.example
+SYN-0710,Packing guidance,Which label should I put on the outer carton?,contact710@external710.example
+SYN-0711,Packing guidance,Which label should I put on the outer carton?,contact711@customer7.example
+SYN-0712,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact712@customer7.example
+SYN-0713,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact713@customer16.example
+SYN-0714,Change pickup contact,Please change the collection contact for tomorrow.,contact714@external714.example
+SYN-0715,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact715@external715.example
+SYN-0716,Packing guidance,Which label should I put on the outer carton?,contact716@customer12.example
+SYN-0717,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact717@external717.example
+SYN-0718,Damaged shipment,The package arrived broken and the contents were damaged.,contact718@external718.example
+SYN-0719,Change pickup contact,Please change the collection contact for tomorrow.,contact719@customer18.example
+SYN-0720,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact720@external720.example
+SYN-0721,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact721@customer12.example
+SYN-0722,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact722@customer8.example
+SYN-0723,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact723@customer3.example
+SYN-0724,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact724@external724.example
+SYN-0725,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact725@customer5.example
+SYN-0726,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact726@external726.example
+SYN-0727,Damaged shipment,The package arrived broken and the contents were damaged.,contact727@external727.example
+SYN-0728,Portal access,I cannot update the notification preferences in the customer portal.,contact728@customer8.example
+SYN-0729,Damaged shipment,The package arrived broken and the contents were damaged.,contact729@external729.example
+SYN-0730,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact730@customer19.example
+SYN-0731,Portal access,I cannot update the notification preferences in the customer portal.,contact731@external731.example
+SYN-0732,Packing guidance,Which label should I put on the outer carton?,contact732@customer15.example
+SYN-0733,Packing guidance,Which label should I put on the outer carton?,contact733@external733.example
+SYN-0734,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact734@customer19.example
+SYN-0735,Damaged shipment,The package arrived broken and the contents were damaged.,contact735@customer3.example
+SYN-0736,Packing guidance,Which label should I put on the outer carton?,contact736@customer8.example
+SYN-0737,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact737@customer19.example
+SYN-0738,Change pickup contact,Please change the collection contact for tomorrow.,contact738@customer12.example
+SYN-0739,Damaged shipment,The package arrived broken and the contents were damaged. This is urgent; please escalate immediately.,contact739@customer6.example
+SYN-0740,Customs clearance question,Customs has requested the HS code and duty information.,contact740@customer12.example
+SYN-0741,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund. This is urgent; please escalate immediately.,contact741@external741.example
+SYN-0742,Packing guidance,Which label should I put on the outer carton?,contact742@customer3.example
+SYN-0743,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact743@customer6.example
+SYN-0744,Damaged shipment,The package arrived broken and the contents were damaged.,contact744@customer3.example
+SYN-0745,Damaged shipment,The package arrived broken and the contents were damaged.,contact745@customer16.example
+SYN-0746,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact746@external746.example
+SYN-0747,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact747@customer16.example
+SYN-0748,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact748@customer10.example
+SYN-0749,Change pickup contact,Please change the collection contact for tomorrow.,contact749@customer10.example
+SYN-0750,Change pickup contact,Please change the collection contact for tomorrow.,contact750@customer16.example
+SYN-0751,Damaged shipment,The package arrived broken and the contents were damaged. This is urgent; please escalate immediately.,contact751@customer19.example
+SYN-0752,Damaged shipment,The package arrived broken and the contents were damaged.,contact752@external752.example
+SYN-0753,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact753@customer2.example
+SYN-0754,Portal access,I cannot update the notification preferences in the customer portal.,contact754@customer7.example
+SYN-0755,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact755@customer7.example
+SYN-0756,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact756@customer8.example
+SYN-0757,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact757@customer5.example
+SYN-0758,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact758@customer4.example
+SYN-0759,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact759@external759.example
+SYN-0760,Packing guidance,Which label should I put on the outer carton?,contact760@customer10.example
+SYN-0761,Change pickup contact,Please change the collection contact for tomorrow.,contact761@customer1.example
+SYN-0762,Damaged shipment,The package arrived broken and the contents were damaged.,contact762@customer12.example
+SYN-0763,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact763@external763.example
+SYN-0764,Where is my delivery?,The shipment is late and has not arrived. Please provide an update.,contact764@customer17.example
+SYN-0765,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact765@customer16.example
+SYN-0766,Portal access,I cannot update the notification preferences in the customer portal.,contact766@customer10.example
+SYN-0767,Damaged shipment,The package arrived broken and the contents were damaged.,contact767@customer3.example
+SYN-0768,Portal access,I cannot update the notification preferences in the customer portal.,contact768@customer13.example
+SYN-0769,Customs clearance question,Customs has requested the HS code and duty information.,contact769@customer20.example
+SYN-0770,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact770@external770.example
+SYN-0771,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact771@customer16.example
+SYN-0772,Change pickup contact,Please change the collection contact for tomorrow.,contact772@external772.example
+SYN-0773,Damaged shipment,The package arrived broken and the contents were damaged.,contact773@customer10.example
+SYN-0774,Portal access,I cannot update the notification preferences in the customer portal.,contact774@customer11.example
+SYN-0775,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact775@customer14.example
+SYN-0776,Damaged shipment,The package arrived broken and the contents were damaged.,contact776@customer2.example
+SYN-0777,Packing guidance,Which label should I put on the outer carton?,contact777@customer3.example
+SYN-0778,Customs clearance question,Customs has requested the HS code and duty information.,contact778@customer1.example
+SYN-0779,Customs clearance question,Customs has requested the HS code and duty information.,contact779@external779.example
+SYN-0780,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact780@customer20.example
+SYN-0781,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact781@customer19.example
+SYN-0782,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact782@customer6.example
+SYN-0783,Portal access,I cannot update the notification preferences in the customer portal.,contact783@customer13.example
+SYN-0784,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact784@customer5.example
+SYN-0785,Damaged shipment,The package arrived broken and the contents were damaged.,contact785@customer4.example
+SYN-0786,Change pickup contact,Please change the collection contact for tomorrow.,contact786@customer1.example
+SYN-0787,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact787@external787.example
+SYN-0788,Change pickup contact,Please change the collection contact for tomorrow.,contact788@customer1.example
+SYN-0789,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact789@customer20.example
+SYN-0790,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact790@external790.example
+SYN-0791,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact791@external791.example
+SYN-0792,Invoice appears wrong,We were double billed for the last shipment. Please arrange a refund.,contact792@customer3.example
+SYN-0793,Request for a quote,How much to ship our pallets next week? Please send pricing.,contact793@customer9.example
+SYN-0794,Packing guidance,Which label should I put on the outer carton?,contact794@customer19.example
+SYN-0795,Damaged shipment,The package arrived broken and the contents were damaged.,contact795@customer10.example
+SYN-0796,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact796@customer4.example
+SYN-0797,Damaged shipment,The package arrived broken and the contents were damaged.,contact797@customer13.example
+SYN-0798,Where is my delivery?,The shipment is late and has not arrived. Please provide an update. This is urgent; please escalate immediately.,contact798@external798.example
+SYN-0799,Request for a quote,How much to ship our pallets next week? Please send pricing. This is urgent; please escalate immediately.,contact799@external799.example
+SYN-0800,Damaged shipment,The package arrived broken and the contents were damaged.,contact800@customer12.example
